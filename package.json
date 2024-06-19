@@ -21,7 +21,7 @@
     "body-parser": "^1.15.2",
     "chai": "^4.0.2",
     "co": "^4.6.0",
-    "co-mocha": "^1.2.0",
+    "co-mocha": "^1.2.2",
     "cors": "^2.8.1",
     "expect": "latest",
     "express": "^4.14.0",
